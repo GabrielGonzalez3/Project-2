@@ -15,7 +15,7 @@ var item3 = "honey";
 // Part1. Hint: Use the listItems object to iterate through the elements of the list
 for (var i = 0; i < totalItems; i++) {
     if (listItems[i].textContent === item1 || listItems[i].textContent === item2 || listItems[i].textContent === item3) {
-        listItems[i].className = 'blue'; 
+        listItems[i].className = 'bluwe'; 
     }
 }
 
