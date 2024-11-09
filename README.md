@@ -1,1 +1,1 @@
-I'm getting the hang of it but I'm working on it. Both the HomeWork2 file and the list and the other files are the same. I'm just making sure you can access them in general. 
+I'm getting the hang of it but I'm working on it. The files in the Homework 2 file are the ones that use the cool color from the css file while the files on outside are my version of the cool background, I changed it from cool to blue.
